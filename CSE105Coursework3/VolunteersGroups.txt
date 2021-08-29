@@ -1,0 +1,14 @@
+Group1:
+AAA
+BBC
+Group2:
+AAA
+CDE
+Group3:
+CDE
+AAA
+Group4:
+AAA
+AAA
+Group5:
+AAA
